@@ -3,6 +3,7 @@
 ## To Get Started This Project
 
 ```
+
 1- git clone https://github.com/ihanadi/COVID-19-TRACKER.git
 
 2- cd COVID-19-TRACKER
