@@ -22,7 +22,7 @@
 Beautiful and easy to learn and handle. I recommend watching it
 
 - [Chart.js](https://www.chartjs.org/) Simple yet flexible JavaScript charting for designers & developers
-I liked the way it works, there are a lot of branches that can build a nice dynamic chart, 
+I liked the way how it works, there are a lot of branches that can build a nice dynamic chart, 
 I looked at a small part and I think I will learn more about it in the coming days.
 
 - [Leaflet](https://leafletjs.com/) an open-source JavaScript library for mobile-friendly interactive maps
